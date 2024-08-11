@@ -1,0 +1,17 @@
+{
+"app_title": "Islami",
+"chapter_name": "Chapter Name",
+"verses_number": "Verses Number",
+"ahadith": "Ahadith",
+"quran_tab": "Quran Tab",
+"hadith_tab": "Hadith Tab",
+"tasbeh_tab": "Tasbeh Tab",
+"radio_tab": "Radio Tab",
+"settings_tab": "Settings Tab",
+"theme": "Theme",
+"light": "Light",
+"dark": "Dark",
+"language": "Language",
+"english": "English",
+"arabic": "Arabic"
+}
